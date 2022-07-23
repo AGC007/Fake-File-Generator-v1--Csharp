@@ -1,0 +1,11 @@
+E:\پروژه\Form\Crack_P\Fake_File_Generator_v1\Fake_File_Generator_v1\bin\Debug\Fake File Generator_v1 +AGC007+.exe
+E:\پروژه\Form\Crack_P\Fake_File_Generator_v1\Fake_File_Generator_v1\bin\Debug\Fake File Generator_v1 +AGC007+.pdb
+E:\پروژه\Form\Crack_P\Fake_File_Generator_v1\Fake_File_Generator_v1\obj\Debug\Fake File Generator_v1 +AGC007+.exe
+E:\پروژه\Form\Crack_P\Fake_File_Generator_v1\Fake_File_Generator_v1\obj\Debug\Fake File Generator_v1 +AGC007+.pdb
+E:\پروژه\MY_Project\Normal\Fake_File_Generator_v1\Fake_File_Generator_v1\obj\Debug\Fake_File_Generator_v1.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\Normal\Fake_File_Generator_v1\Fake_File_Generator_v1\obj\Debug\Fake File Generator_v1 +AGC007+.exe
+E:\پروژه\MY_Project\Normal\Fake_File_Generator_v1\Fake_File_Generator_v1\obj\Debug\Fake File Generator_v1 +AGC007+.pdb
+E:\پروژه\MY_Project\Normal\Fake_File_Generator_v1\Fake_File_Generator_v1\bin\Debug\Fake File Generator_v1 +AGC007+.exe.config
+E:\پروژه\MY_Project\Normal\Fake_File_Generator_v1\Fake_File_Generator_v1\bin\Debug\Fake File Generator_v1 +AGC007+.exe
+E:\پروژه\MY_Project\Normal\Fake_File_Generator_v1\Fake_File_Generator_v1\bin\Debug\Fake File Generator_v1 +AGC007+.pdb
+E:\پروژه\MY_Project\Normal\Fake_File_Generator_v1\Fake_File_Generator_v1\obj\Debug\Fake_File_Generator_v1.csproj.AssemblyReference.cache
