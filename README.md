@@ -1,11 +1,7 @@
-# Fake-File-Generator-v1
+#💥 [-FakeFileGenerator [v1] By AGC007™-] 💥
 
-FakeFileGenerator [v1] By AGC007™ -- C# : 
+-
+⏺ با استفاده از این نرم افزار می توانید فایل های جعلی (فایل های حجیم) ایجاد کنید.
 
--- Fake File Create
-
--- Fast Speed
-
--- C#
 
 ------- Developed by AGC007 -------
